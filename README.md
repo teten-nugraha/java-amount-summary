@@ -9,7 +9,6 @@ String amountSum1 = AmountUtils.summary("4300") // expect 4K
 ```
 
 ## Expecting Result
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ```
 4.000 = 4K
